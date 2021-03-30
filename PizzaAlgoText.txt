@@ -1,0 +1,10 @@
+Algo.txt
+Search for nearby pizzerias
+Select preferred location
+Check current specials
+Make pizza selection
+Customize pizza topping
+Prepare order
+Check product quality
+Pick up order
+Enjoy pizza
